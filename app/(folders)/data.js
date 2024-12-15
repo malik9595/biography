@@ -1,0 +1,16 @@
+export  const pagesLinks =[
+    {name:"Prophet Mohammad Saw", url:"prophet-mohammad-saw"},
+    {name:"Dr Zakir Nikh",url:"dr-zakir-naik"},
+    {name:"APJ Abdul Kalam",url:"apj-abdul-kalam"},
+    {name:"Barack Obama",url:"barack-obama"},
+    {name:"Elon Musk",url:"elon-musk"},
+    {name:"Lionel Messi",url:"lionel-messi"},
+    {name:"Narendra Modi",url:"narendra-modi"},
+    {name:"Osama Bin Landen",url:"osama-bin-landen"},
+    {name:"Salman Khan",url:"salman-khan"},
+    {name:"Shah Rukh Khan",url:"shah-rukh-khan"},
+    {name:"Amitabh Bachchan",url:"amitabh-bachchan"},
+    {name:"Cristiano Ronaldo",url:"cristiano-ronaldo"},
+    {name:"Bill Gates",url:"bill-gates"},
+    {name:"Dr BR Ambedkar",url:"dr-br-ambedkar"},
+]
