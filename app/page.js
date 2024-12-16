@@ -9,13 +9,14 @@ const page = () => {
         <title>Hello Biography site</title>
       </Head>
       <div className="container">
-        {pagesLinks.map((link) => (
+        {/* {pagesLinks.map((link) => (
           <>
             <div className="card" key={link.url}>
               <Link href={`${link.url}`}>{link.name}</Link>
             </div>
           </>
-        ))}
+        ))} */}
+      <p>Hello err is fixed</p>
       </div>
     </>
   );
