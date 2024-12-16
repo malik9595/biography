@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import { pagesLinks } from "./(folders)/data.js";
+import { pagesLinks } from "./data.js";
 
 const page = () => {
   return (
