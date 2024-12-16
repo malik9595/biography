@@ -1,7 +1,7 @@
-// next-sitemap.config.js
-// module.exports = {
-//     siteUrl: 'https://your-domain.com', 
-//     generateRobotsTxt: true, 
-//     exclude: ['/path-to-exclude'],
-//   };
+next-sitemap.config.js
+module.exports = {
+    siteUrl: 'https://biography-gilt.vercel.app/', 
+    generateRobotsTxt: true, 
+    exclude: ['/path-to-exclude'],
+  };
   

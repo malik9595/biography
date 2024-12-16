@@ -11,7 +11,7 @@ const page = () => {
       <div className="container">
         {pagesLinks.map((link) => (
           <>
-            <div className="card">
+            <div className="card" key={link.url}>
               <Link href={`${link.url}`}>{link.name}</Link>
             </div>
           </>
