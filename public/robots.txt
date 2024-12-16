@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://biography-gilt.vercel.app/
+Host: https://biography-zp2o.vercel.app/
 
 # Sitemaps
-Sitemap: https://biography-gilt.vercel.app/sitemap.xml
+Sitemap: https://biography-zp2o.vercel.app/sitemap.xml
